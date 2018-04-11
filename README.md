@@ -14,6 +14,13 @@ So I extracted the `laravel/collection` for standalone use. Hope it helps.
 composer require rummykhan/laravel-collection
 ```
 
+### How To
+
+To create a collection object you can use either of two ways.
+
+1. Using `RummyKhan\Collection\Collection::make($arr)`
+2. Using laravel `collect($arr)` method.
+
 ### Complete documentation
 To view the full documentation please visit
 [https://laravel.com/docs/5.6/collections](https://laravel.com/docs/5.6/collections)

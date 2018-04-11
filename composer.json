@@ -1,6 +1,6 @@
 {
   "name": "rummykhan/laravel-collection",
-  "description": "A standalone version of laravel collection to use in other frameworks.",
+  "description": "A standalone version of laravel collection to use in core php or any framework.",
   "keywords": [
     "Laravel",
     "Collection"
