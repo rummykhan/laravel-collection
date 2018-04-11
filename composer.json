@@ -1,0 +1,25 @@
+{
+  "name": "rummykhan/laravel-collection",
+  "description": "A standalone version of laravel collection to use in other frameworks.",
+  "keywords": [
+    "Laravel",
+    "Collection"
+  ],
+  "authors": [
+    {
+      "name": "Rehan Manzoor",
+      "email": "rehan_manzoor@outlook.com"
+    }
+  ],
+  "license": "MIT",
+  "type": "package",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "RummyKhan\\Collection\\": "src/"
+    },
+    "files": ["src/helpers.php"]
+  }
+}
